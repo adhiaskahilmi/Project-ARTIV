@@ -1,5 +1,7 @@
-# ARTIV — Multi-Criteria Evaluation of Exploration Zones (EZ) Within NASA's Nine Candidate Landing Regions for Artemis IV
+# ARTIV: Multi-Criteria Evaluation of Exploration Zones (EZ) Within NASA's Nine Candidate Landing Regions for Artemis IV
 This repository contains the multi-criteria decision-making (MCDM) framework used to evaluate and rank NASA's nine candidate lunar south pole landing regions for the Artemis IV surface mission. It utilizes a landing-spot-centered Exploration Zone (EZ) selection algorithm combined with CRITIC-weighted TOPSIS.
+
+[![Tableau Dashboard Preview](tableau/tableau_ss.png)](https://public.tableau.com/shared/XXQP4XQ4S?:display_count=n&:origin=viz_share_link)
 
 The extended abstract is published on Zenodo: https://doi.org/10.5281/zenodo.21431608
 
