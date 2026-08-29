@@ -3,8 +3,6 @@ This repository contains the multi-criteria decision-making (MCDM) framework use
 
 [![Tableau Dashboard Preview](tableau/tableau_ss.png)](https://public.tableau.com/shared/XXQP4XQ4S?:display_count=n&:origin=viz_share_link)
 
-Interactive Tableau dashboard: https://public.tableau.com/views/ArtemisIVSiteSelectionExplorationZoneEZEvaluationDashboard_17839245253510/Dashboard
-
 The extended abstract is published on Zenodo: https://doi.org/10.5281/zenodo.21431608
 
 
